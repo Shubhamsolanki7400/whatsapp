@@ -1,0 +1,29 @@
+2025/09/05-08:08:02.633 4020 Reusing MANIFEST C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/05-08:08:02.635 4020 Recovering log #939
+2025/09/05-08:08:02.680 4020 Reusing old log C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000939.log 
+2025/09/05-08:08:04.372 4020 Level-0 table #952: started
+2025/09/05-08:08:04.398 4020 Level-0 table #952: 445523 bytes OK
+2025/09/05-08:08:04.400 4020 Delete type=0 #939
+2025/09/05-08:08:04.402 4020 Manual compaction at level-0 from '\x00|\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00}\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/09/05-08:08:07.814 2704 Compacting 1@1 + 9@2 files
+2025/09/05-08:08:07.948 2704 Generated table #953@1: 49746 keys, 2207700 bytes
+2025/09/05-08:08:08.072 2704 Generated table #954@1: 44817 keys, 2213133 bytes
+2025/09/05-08:08:08.088 2704 Generated table #955@1: 188 keys, 2115764 bytes
+2025/09/05-08:08:08.131 2704 Generated table #956@1: 1411 keys, 2144774 bytes
+2025/09/05-08:08:08.203 2704 Generated table #957@1: 11164 keys, 2189975 bytes
+2025/09/05-08:08:08.295 2704 Generated table #958@1: 27122 keys, 2206457 bytes
+2025/09/05-08:08:08.384 2704 Generated table #959@1: 50750 keys, 2184002 bytes
+2025/09/05-08:08:08.542 2704 Generated table #960@1: 106363 keys, 2258357 bytes
+2025/09/05-08:08:08.586 2704 Generated table #961@1: 26673 keys, 574581 bytes
+2025/09/05-08:08:08.586 2704 Compacted 1@1 + 9@2 files => 18094743 bytes
+2025/09/05-08:08:08.587 2704 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/09/05-08:08:08.587 2704 Delete type=2 #941
+2025/09/05-08:08:08.587 2704 Delete type=2 #942
+2025/09/05-08:08:08.587 2704 Delete type=2 #943
+2025/09/05-08:08:08.587 2704 Delete type=2 #944
+2025/09/05-08:08:08.588 2704 Delete type=2 #945
+2025/09/05-08:08:08.588 2704 Delete type=2 #946
+2025/09/05-08:08:08.588 2704 Delete type=2 #947
+2025/09/05-08:08:08.588 2704 Delete type=2 #948
+2025/09/05-08:08:08.588 2704 Delete type=2 #949
+2025/09/05-08:08:08.588 2704 Delete type=2 #952
