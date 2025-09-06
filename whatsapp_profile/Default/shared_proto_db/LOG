@@ -1,3 +1,6 @@
-2025/09/05-08:08:01.375 43cc Reusing MANIFEST C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\shared_proto_db/MANIFEST-000001
-2025/09/05-08:08:01.376 43cc Recovering log #3
-2025/09/05-08:08:01.379 43cc Reusing old log C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\shared_proto_db/000003.log 
+2025/09/05-23:17:52.926 222c Reusing MANIFEST C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\shared_proto_db/MANIFEST-000001
+2025/09/05-23:17:52.928 222c Recovering log #3
+2025/09/05-23:17:52.933 222c Reusing old log C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\shared_proto_db/000003.log 
+2025/09/05-23:20:56.018 6200 Level-0 table #5: started
+2025/09/05-23:20:56.034 6200 Level-0 table #5: 112975 bytes OK
+2025/09/05-23:20:56.037 6200 Delete type=0 #3

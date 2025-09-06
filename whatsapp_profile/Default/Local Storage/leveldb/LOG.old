@@ -1,3 +1,16 @@
-2025/09/05-08:03:41.001 4f70 Reusing MANIFEST C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
-2025/09/05-08:03:41.016 4f70 Recovering log #8
-2025/09/05-08:03:41.023 4f70 Reusing old log C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\Local Storage\leveldb/000008.log 
+2025/09/05-23:15:13.108 5494 Reusing MANIFEST C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2025/09/05-23:15:13.123 5494 Recovering log #13
+2025/09/05-23:15:13.124 5494 Level-0 table #16: started
+2025/09/05-23:15:13.134 5494 Level-0 table #16: 14096 bytes OK
+2025/09/05-23:15:13.135 5494 Recovering log #16
+2025/09/05-23:15:13.141 5494 Reusing old log C:\Users\salon\Desktop\whatsapp-ai-news-assistant\whatsapp_profile\Default\Local Storage\leveldb/000016.log 
+2025/09/05-23:15:13.145 5494 Delete type=0 #13
+2025/09/05-23:15:13.146 5494 Delete type=2 #17
+2025/09/05-23:15:13.150 3c70 Compacting 4@0 + 0@1 files
+2025/09/05-23:15:13.183 3c70 Generated table #17@0: 245 keys, 12320 bytes
+2025/09/05-23:15:13.184 3c70 Compacted 4@0 + 0@1 files => 12320 bytes
+2025/09/05-23:15:13.186 3c70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/09/05-23:15:13.192 3c70 Delete type=2 #7
+2025/09/05-23:15:13.192 3c70 Delete type=2 #10
+2025/09/05-23:15:13.196 3c70 Delete type=2 #14
+2025/09/05-23:15:13.196 3c70 Delete type=2 #16
